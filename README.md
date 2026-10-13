@@ -94,20 +94,20 @@ Alur MVC pada halaman Contact: **Route** menerima request, **Controller** memval
 
 Welcome page bawaan Laravel (`php artisan serve` berjalan):
 
-![Welcome](docs/welcome.png)
+![alt text](welcome.png)
 
 Halaman Home:
 
-![Home](docs/home.png)
+![alt text](image.png)
 
 Halaman About:
 
-![About](docs/about.png)
+![alt text](<WhatsApp Image 2026-10-13 at 15.00.08.jpeg>)
 
 Halaman Contact:
 
-![Contact](docs/contact.png)
+![alt text](<WhatsApp Image 2026-10-13 at 15.00.40.jpeg>)
 
 Tabel `messages` di phpMyAdmin:
 
-![Database](docs/database.png)
+![alt text](<WhatsApp Image 2026-10-13 at 15.03.38.jpeg>)
